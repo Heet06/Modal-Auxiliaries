@@ -53,5 +53,8 @@ ul li a
     font-size: 30px;
 }
 #profile{
+    color:white;
+}
+#profile img{
     opacity: 1;
 }
