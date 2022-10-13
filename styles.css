@@ -54,6 +54,10 @@ ul li a
 }
 #profile{
     color:white;
+    opacity:0.5;
+}
+#profile h6{
+    opacity: 1;
 }
 #profile img{
     opacity: 1;
