@@ -55,7 +55,7 @@ ul li a
 #profile{
     opacity:0.5;
 }
-h6{
+h6, h5{
     color: white;
     opacity: 1;
 }
