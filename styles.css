@@ -53,10 +53,10 @@ ul li a
     font-size: 30px;
 }
 #profile{
-    color:white;
     opacity:0.5;
 }
 #profile h6{
+    color: white;
     opacity: 1;
 }
 #profile img{
