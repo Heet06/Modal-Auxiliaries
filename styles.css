@@ -73,6 +73,7 @@ Table{
     position: absolute;
     top: 10%;
     left: 250px;
+    opacity: 0.5;
 }
 Table, td, tr, th{
     border: 2px solid black;
