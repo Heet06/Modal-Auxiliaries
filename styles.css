@@ -84,3 +84,6 @@ Table, td, tr, th{
     color: blue;
     font-size: 25px;
 }
+h1{
+    text-align: center;
+}
