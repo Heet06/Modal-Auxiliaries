@@ -10,12 +10,12 @@ body, html
     opacity: 1;
 }
 h2{
-    color: white;
+    color: blue;
     opacity: 1;
 }
 h3
 {
-    color: White;
+    color: blue;
     opacity: 1;
 }
 
@@ -35,7 +35,7 @@ ul
     width: 250px;
     top: 90px;
     left: 20px;
-    color: Lime;
+    color: blue;
     background-color: aqua;
     margin: 10px;
     padding: 6px;
@@ -52,7 +52,7 @@ ul li
 }
 ul li a
 {
-    color:black;
+    color: blue;
     opacity: 1;
     font-size: 30px;
 }
@@ -60,7 +60,7 @@ ul li a
     opacity:0.5;
 }
 h6, h5{
-    color: white;
+    color: blue;
     opacity: 1;
 }
 img{
