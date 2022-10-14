@@ -89,17 +89,22 @@ h1{
 }
 #content{
     color: black;
+    font-size: larger;
 }
 
 .title{
     opacity: 1;
+    font-size: large;
 }
 .uses{
     opacity: 1;
+    font-size: 30px;
 }
 .uses1{
     opacity: 1;
+    font-size: 25px;
 }
 .examples{
     opacity: 1;
+    font-size: 25px;
 }
