@@ -70,4 +70,6 @@ img{
 Table, td, tr, th{
     border: 2px solid black;
     border-collapse: collapse;
+    width: 200px;
+    height: 300px;
 }
