@@ -21,7 +21,7 @@ h3
 
 div
 {
-    background-color: royalblue;
+    background-color: lightskyblue;
     padding: 4px;
     margin: 20px;
     font-family: Arial, Verdana, Times New Roman;
@@ -80,10 +80,26 @@ Table, td, tr, th{
     border: 2px solid black;
     border-collapse: collapse;
     text-align: center;
-    background-color: royalblue;
+    background-color: lightskyblue;
     color: black;
     font-size: 25px;
 }
 h1{
     text-align: center;
+}
+#content{
+    color: black;
+}
+
+.title{
+    opacity: 1;
+}
+.uses{
+    opacity: 1;
+}
+.uses1{
+    opacity: 1;
+}
+.examples{
+    opacity: 1;
 }
