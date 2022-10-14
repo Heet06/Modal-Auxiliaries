@@ -74,12 +74,12 @@ Table{
     top: 10%;
     left: 250px;
     opacity: 0.5;
-    color: aquamarine;
+    color: blue;
 }
 Table, td, tr, th{
     border: 2px solid black;
     border-collapse: collapse;
     text-align: center;
     background-color: wheat;
-    color: aquamarine;
+    color: blue;
 }
