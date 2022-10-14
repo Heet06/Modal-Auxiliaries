@@ -67,7 +67,7 @@ img{
     opacity: 1;
 }
 
-Table, td, th{
+Table, td, tr, th{
     border: 2px solid black;
     border-collapse: collapse;
 }
