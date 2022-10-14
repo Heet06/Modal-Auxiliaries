@@ -69,7 +69,7 @@ img{
 
 Table{
     width: 700px;
-    height: 500px;
+    height: 700px;
     position: absolute;
     top: 10%;
     left: 250px;
@@ -82,5 +82,5 @@ Table, td, tr, th{
     text-align: center;
     background-color: wheat;
     color: blue;
-    font-size: 15px;
+    font-size: 25px;
 }
