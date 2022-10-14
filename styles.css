@@ -66,3 +66,7 @@ h6, h5{
 img{
     opacity: 1;
 }
+
+table{
+    border: 2px solid black;
+}
