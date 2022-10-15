@@ -7,6 +7,7 @@ body, html
     height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     opacity: 1;
 }
 h2{
