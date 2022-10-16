@@ -76,6 +76,7 @@ Table{
     left: 200px;
     opacity: 0.5;
     color: black;
+    margin: 20px;
 }
 Table, td, tr, th{
     border: 2px solid black;
