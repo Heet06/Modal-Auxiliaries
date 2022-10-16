@@ -87,6 +87,8 @@ Table, td, tr, th{
 }
 h1{
     text-align: center;
+    font-family: cursive;
+    font-style: bold;
 }
 #content{
     color: black;
