@@ -112,6 +112,10 @@ h1{
     opacity: 1;
     font-size: 25px;
 }
+
+#main{
+    font-family: fantasy;
+}
 @import url('https://fonts.googleapis.com/css?family=Lobster&display=swap') repeat scroll 0 0 rgba(0, 0, 0 , 0);
 
 body {
