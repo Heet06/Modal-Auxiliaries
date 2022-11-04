@@ -169,10 +169,12 @@ body {
 #links li a{
     background-color: aquamarine;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
+    margin: 10px;
     border-radius: 10px;
     margin-right: auto;
     margin-left: auto;
+
 }
 
 #links li a img{
