@@ -120,6 +120,34 @@ h1{
     font-weight: bolder;
 }
 
+#links{
+    background-color: white;
+    list-style: none;
+    display: block;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    opacity: 0.75;
+    border-radius: 20px;
+}
+
+#links li{
+    display: inline;
+}
+
+#links li a{
+    background-color: navy;
+    color: aquamarine;
+    padding: 10px;
+    border-radius: 20px;
+    opacity: 1;
+    width: 200px;
+}
+
+#links li a img{
+    height: 20px;
+}
+
 body {
   background: #fff;
 }
@@ -149,33 +177,4 @@ body {
   .wrapper {
     animation: scroll 200s linear infinite;
   }
-}
-
-#links{
-    background-color: aliceblue;
-    opacity: 0.75;
-    display: block;
-    width: 25%;
-    margin-right: auto;
-    margin-left: auto;
-    list-style: none;
-    border-radius: 10px;
-}
-
-#links li{
-    display: inline;
-}
-
-#links li a{
-    background-color: aquamarine;
-    text-align: center;
-    padding: 10px;
-    margin: 10px;
-    border-radius: 10px;
-    margin-right: auto;
-    margin-left: auto;
-}
-
-#links li a img{
-    height: 20px;
 }
