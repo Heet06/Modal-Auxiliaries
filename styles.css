@@ -155,19 +155,24 @@ body {
     background-color: aliceblue;
     opacity: 0.75;
     display: block;
-    width: 30%;
+    width: 25%;
     margin-right: auto;
     margin-left: auto;
     list-style: none;
     border-radius: 10px;
 }
 
+#links li{
+    display: inline;
+}
+
 #links li a{
     background-color: aquamarine;
-    margin: 20px;
     text-align: center;
     padding: 20px;
     border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 #links li a img{
