@@ -162,10 +162,6 @@ body {
     border-radius: 10px;
 }
 
-#links li{
-    display: inline;
-}
-
 #links li a{
     background-color: aquamarine;
     margin: 20px;
