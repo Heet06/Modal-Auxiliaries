@@ -22,12 +22,9 @@ h3
 
 div
 {
-    background-color: lightskyblue;
     padding: 4px;
     margin: 20px;
     font-family: Arial, Verdana, Times New Roman;
-    border: 3px solid white;
-    opacity: 0.5;
 }
 
 ul
