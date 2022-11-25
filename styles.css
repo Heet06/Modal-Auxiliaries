@@ -143,6 +143,8 @@ h1{
 
 #links li a img{
     height: 20px;
+    background-color: lightgreen;
+    border-radius: 10px;
 }
 
 .visual{
